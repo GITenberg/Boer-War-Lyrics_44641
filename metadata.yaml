@@ -1,0 +1,29 @@
+_repo: Boer-War-Lyrics_44641
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44641-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Selmer, Louis
+    gutenberg_agent_id: '42849'
+    url: http://www.gutenberg.org/2009/agents/42849
+description: ''
+gutenberg_issued: '2014-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44641'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'South African War, 1899-1902 -- Poetry'
+tableOfContents: 'Prelude -- On the trail of the lion -- The gibbet-song -- The scar
+  -- To England: a forecast -- War -- Clio -- Ave Pax -- Alpha -- Omega -- Greatness
+  -- Peter Cronje -- Christian De Wet -- Oom Paul -- Cecil Rhodes -- Chamberlain --
+  Salisbury -- Peace pending -- Peace -- After -- Christian De Wet -- Sine die --
+  A concordance.'
+title: Boer War Lyrics
+url: http://www.gutenberg.org/ebooks/44641
